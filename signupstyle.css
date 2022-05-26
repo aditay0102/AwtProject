@@ -1,27 +1,29 @@
-.container{
-
+.container {
     background-color: #ba3357;
     margin-left: 30%;
     margin-right: 30%;
     margin-top: 4%;
     border-radius: 20px;
- 
 }
-body{
-    background-image: url("./cov1back.jpg") ;
+
+body {
+    background-image: url("bg.png");
     background-size: cover;
     font-weight: bold;
 }
-p{
+
+p {
     text-size-adjust: 23px;
 }
-.button{
+
+.button {
     height: 60px;
     width: 100px;
     background-color: grey;
-    color:whitesmoke;
+    color: whitesmoke;
     border-radius: 10px;
 }
-h1{
+
+h1 {
     font-family: Arial, Helvetica, sans-serif;
 }
