@@ -2,7 +2,7 @@
     background-color: #455acd;
     margin-left: 30%;
     margin-right: 30%;
-    margin-top: 4%;
+    margin-top: 5%;
     border-radius: 20px;
 }
 
@@ -17,7 +17,7 @@ p {
 }
 
 .button {
-    height: 60px;
+    height: 70px;
     width: 100px;
     background-color: grey;
     color: whitesmoke;
@@ -26,5 +26,5 @@ p {
 
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-    margin-top: 5px;
+    margin-top: 6px;
 }
